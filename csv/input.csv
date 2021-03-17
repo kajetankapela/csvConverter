@@ -1,0 +1,234 @@
+BIKE MODEL,,,,,,,,
+Numeric Model ID,2135600,,,,,,,
+Marketing Model Number,32984,,,,,,,
+Model Year,2021,,,,,,,
+Model Name,Top Fuel 9.9 AXS,,,,,,,
+Text Identifier,,,,,,,,
+Travel,120mm front; 115mm rear,,,,,,,
+,,,,,,,,
+Front Suspension,"RockShox SID Ultimate, DebonAir, Charger 2 RC2",,,,,,,
+Pounds,Spring,Units,Rebound,Units,Fork Sag,Units,,
+0-100,45,PSI,11,clicks out,18,mm,,
+101-110,50,PSI,11,clicks out,18,mm,,
+111-120,55,PSI,11,clicks out,18,mm,,
+121-130,60,PSI,9,clicks out,18,mm,,
+131-140,66,PSI,8,clicks out,18,mm,,
+141-150,73,PSI,7,clicks out,18,mm,,
+151-160,79,PSI,6,clicks out,18,mm,,
+161-170,86,PSI,6,clicks out,18,mm,,
+171-180,93,PSI,5,clicks out,18,mm,,
+181-190,101,PSI,5,clicks out,18,mm,,
+191-200,108,PSI,4,clicks out,18,mm,,
+201-210,116,PSI,3,clicks out,18,mm,,
+211-220,125,PSI,3,clicks out,18,mm,,
+221-230,134,PSI,2,clicks out,18,mm,,
+231-240,143,PSI,2,clicks out,18,mm,,
+241-250,142,PSI,2,clicks out,18,mm,,
+,,,,,,,,
+Rear Suspension,RockShox SIDLuxe Ultimate,,,,,,,
+Pounds,Spring,Units,Rebound,Units,Shock Stroke,Units,Shock Sag,Units
+0-100,100,PSI,6,clicks out,45,mm,12,mm
+101-110,110,PSI,6,clicks out,45,mm,12,mm
+111-120,120,PSI,6,clicks out,45,mm,12,mm
+121-130,130,PSI,5,clicks out,45,mm,12,mm
+131-140,140,PSI,5,clicks out,45,mm,12,mm
+141-150,150,PSI,5,clicks out,45,mm,12,mm
+151-160,160,PSI,5,clicks out,45,mm,12,mm
+161-170,170,PSI,5,clicks out,45,mm,12,mm
+171-180,180,PSI,5,clicks out,45,mm,12,mm
+181-190,190,PSI,4,clicks out,45,mm,12,mm
+191-200,200,PSI,4,clicks out,45,mm,12,mm
+201-210,210,PSI,4,clicks out,45,mm,12,mm
+211-220,220,PSI,4,clicks out,45,mm,12,mm
+221-230,230,PSI,3,clicks out,45,mm,12,mm
+231-240,240,PSI,3,clicks out,45,mm,12,mm
+241-250,250,PSI,3,clicks out,45,mm,12,mm
+END BIKE MODEL,,,,,,,,
+,,,,,,,,
+BIKE MODEL,,,,,,,,
+Numeric Model ID,2135600,,,,,,,
+Marketing Model Number,32984,,,,,,,
+Model Year,2021,,,,,,,
+Model Name,Top Fuel 7,,,,,,,
+Text Identifier,top-fuel-7,,,,,,,
+Travel,120mm front; 115mm rear,,,,,,,
+,,,,,,,,
+Front Suspension,"RockShox Judy Gold, Solo Air, Motion Control",,,,,,,
+Pounds,Spring,Units,Rebound,Units,Fork Sag,Units,,
+0-100,48,PSI,3,clicks out,18,mm,,
+101-110,53,PSI,3,clicks out,18,mm,,
+111-120,58,PSI,3,clicks out,18,mm,,
+121-130,63,PSI,2,clicks out,18,mm,,
+131-140,68,PSI,2,clicks out,18,mm,,
+141-150,74,PSI,2,clicks out,18,mm,,
+151-160,81,PSI,2,clicks out,18,mm,,
+161-170,89,PSI,2,clicks out,18,mm,,
+171-180,97,PSI,2,clicks out,18,mm,,
+181-190,105,PSI,2,clicks out,18,mm,,
+191-200,115,PSI,1,clicks out,18,mm,,
+201-210,125,PSI,1,clicks out,18,mm,,
+211-220,135,PSI,1,clicks out,18,mm,,
+221-230,145,PSI,1,clicks out,18,mm,,
+231-240,155,PSI,1,clicks out,18,mm,,
+241-250,165,PSI,0,clicks out,18,mm,,
+,,,,,,,,
+Rear Suspension,X-Fusion Pro 2,,,,,,,
+Pounds,Spring,Units,Rebound,Units,Shock Stroke,Units,Shock Sag,Units
+0-100,95,PSI,8,clicks out,45,mm,12,mm
+101-110,105,PSI,7,clicks out,45,mm,12,mm
+111-120,115,PSI,7,clicks out,45,mm,12,mm
+121-130,125,PSI,7,clicks out,45,mm,12,mm
+131-140,135,PSI,7,clicks out,45,mm,12,mm
+141-150,145,PSI,6,clicks out,45,mm,12,mm
+151-160,155,PSI,6,clicks out,45,mm,12,mm
+161-170,165,PSI,6,clicks out,45,mm,12,mm
+171-180,175,PSI,6,clicks out,45,mm,12,mm
+181-190,185,PSI,5,clicks out,45,mm,12,mm
+191-200,195,PSI,5,clicks out,45,mm,12,mm
+201-210,205,PSI,5,clicks out,45,mm,12,mm
+211-220,215,PSI,4,clicks out,45,mm,12,mm
+221-230,225,PSI,4,clicks out,45,mm,12,mm
+231-240,235,PSI,4,clicks out,45,mm,12,mm
+241-250,245,PSI,3,clicks out,45,mm,12,mm
+END BIKE MODEL,,,,,,,,
+,,,,,,,,
+BIKE MODEL,,,,,,,,
+Numeric Model ID,2136600,,,,,,,
+Marketing Model Number,32985,,,,,,,
+Model Year,2021,,,,,,,
+Model Name,Top Fuel 8,,,,,,,
+Text Identifier,top-fuel-8,,,,,,,
+Travel,120mm front; 115mm rear,,,,,,,
+,,,,,,,,
+Front Suspension,"RockShox Recon RL, Solo Air, Motion Control",,,,,,,
+Pounds,Spring,Units,Rebound,Units,Fork Sag,Units,,
+0-100,48,PSI,20,clicks out,18,mm,,
+101-110,53,PSI,20,clicks out,18,mm,,
+111-120,58,PSI,20,clicks out,18,mm,,
+121-130,63,PSI,19,clicks out,18,mm,,
+131-140,68,PSI,17,clicks out,18,mm,,
+141-150,74,PSI,16,clicks out,18,mm,,
+151-160,81,PSI,15,clicks out,18,mm,,
+161-170,89,PSI,14,clicks out,18,mm,,
+171-180,97,PSI,13,clicks out,18,mm,,
+181-190,105,PSI,12,clicks out,18,mm,,
+191-200,115,PSI,11,clicks out,18,mm,,
+201-210,125,PSI,10,clicks out,18,mm,,
+211-220,135,PSI,10,clicks out,18,mm,,
+221-230,145,PSI,10,clicks out,18,mm,,
+231-240,153,PSI,9,clicks out,18,mm,,
+241-250,158,PSI,9,clicks out,18,mm,,
+,,,,,,,,
+Rear Suspension,Fox Performance Float DPS,,,,,,,
+Pounds,Spring,Units,Rebound,Units,Shock Stroke,Units,Shock Sag,Units
+0-100,100,PSI,11,clicks out,45,mm,12,mm
+101-110,115,PSI,11,clicks out,45,mm,12,mm
+111-120,130,PSI,10,clicks out,45,mm,12,mm
+121-130,145,PSI,9,clicks out,45,mm,12,mm
+131-140,160,PSI,8,clicks out,45,mm,12,mm
+141-150,175,PSI,8,clicks out,45,mm,12,mm
+151-160,190,PSI,7,clicks out,45,mm,12,mm
+161-170,205,PSI,6,clicks out,45,mm,12,mm
+171-180,220,PSI,5,clicks out,45,mm,12,mm
+181-190,235,PSI,5,clicks out,45,mm,12,mm
+191-200,250,PSI,4,clicks out,45,mm,12,mm
+201-210,265,PSI,3,clicks out,45,mm,12,mm
+211-220,280,PSI,3,clicks out,45,mm,12,mm
+221-230,295,PSI,2,clicks out,45,mm,12,mm
+231-240,310,PSI,2,clicks out,45,mm,12,mm
+241-250,325,PSI,1,clicks out,45,mm,12,mm
+END BIKE MODEL,,,,,,,,
+,,,,,,,,
+BIKE MODEL,,,,,,,,
+Numeric Model ID,2138600,,,,,,,
+Marketing Model Number,27919,,,,,,,
+Model Year,2021,,,,,,,
+Model Name,Top Fuel 9.7 ,,,,,,,
+Text Identifier,top-fuel-9-7,,,,,,,
+Travel,120mm front; 115mm rear,,,,,,,
+,,,,,,,,
+Front Suspension,"RockShox Reba RL, Solo Air, Motion Control",,,,,,,
+Pounds,Spring,Units,Rebound,Units,Fork Sag,Units,,
+0-100,50,PSI,14,clicks out,18,mm,,
+101-110,58,PSI,14,clicks out,18,mm,,
+111-120,65,PSI,14,clicks out,18,mm,,
+121-130,75,PSI,14,clicks out,18,mm,,
+131-140,85,PSI,14,clicks out,18,mm,,
+141-150,94,PSI,14,clicks out,18,mm,,
+151-160,101,PSI,13,clicks out,18,mm,,
+161-170,109,PSI,12,clicks out,18,mm,,
+171-180,117,PSI,11,clicks out,18,mm,,
+181-190,124,PSI,10,clicks out,18,mm,,
+191-200,131,PSI,9,clicks out,18,mm,,
+201-210,138,PSI,7,clicks out,18,mm,,
+211-220,143,PSI,6,clicks out,18,mm,,
+221-230,148,PSI,5,clicks out,18,mm,,
+231-240,153,PSI,4,clicks out,18,mm,,
+241-250,158,PSI,3,clicks out,18,mm,,
+,,,,,,,,
+Rear Suspension,Fox Performance Float DPS,,,,,,,
+Pounds,Spring,Units,Rebound,Units,Shock Stroke,Units,Shock Sag,Units
+0-100,95,PSI,11,clicks out,45,mm,12,mm
+101-110,105,PSI,11,clicks out,45,mm,12,mm
+111-120,130,PSI,10,clicks out,45,mm,12,mm
+121-130,145,PSI,9,clicks out,45,mm,12,mm
+131-140,160,PSI,8,clicks out,45,mm,12,mm
+141-150,175,PSI,8,clicks out,45,mm,12,mm
+151-160,190,PSI,7,clicks out,45,mm,12,mm
+161-170,205,PSI,6,clicks out,45,mm,12,mm
+171-180,220,PSI,5,clicks out,45,mm,12,mm
+181-190,235,PSI,5,clicks out,45,mm,12,mm
+191-200,250,PSI,4,clicks out,45,mm,12,mm
+201-210,265,PSI,3,clicks out,45,mm,12,mm
+211-220,280,PSI,3,clicks out,45,mm,12,mm
+221-230,295,PSI,2,clicks out,45,mm,12,mm
+231-240,310,PSI,2,clicks out,45,mm,12,mm
+241-250,325,PSI,1,clicks out,45,mm,12,mm
+END BIKE MODEL,,,,,,,,
+,,,,,,,,
+BIKE MODEL,,,,,,,,
+Numeric Model ID,2130600,,,,,,,
+Marketing Model Number,32989,,,,,,,
+Model Year,2021,,,,,,,
+Model Name,Top Fuel 9.8 GX,,,,,,,
+Text Identifier,top-fuel-9-8-gx,,,,,,,
+Travel,120mm front; 115mm rear,,,,,,,
+,,,,,,,,
+Front Suspension,"RockShox SID Select+, DebonAir, Charger 2 RL ",,,,,,,
+Pounds,Spring,Units,Rebound,Units,Fork Sag,Units,,
+0-100,45,PSI,11,clicks out,18,mm,,
+101-110,50,PSI,11,clicks out,18,mm,,
+111-120,55,PSI,11,clicks out,18,mm,,
+121-130,60,PSI,9,clicks out,18,mm,,
+131-140,66,PSI,8,clicks out,18,mm,,
+141-150,73,PSI,7,clicks out,18,mm,,
+151-160,79,PSI,6,clicks out,18,mm,,
+161-170,86,PSI,6,clicks out,18,mm,,
+171-180,93,PSI,5,clicks out,18,mm,,
+181-190,101,PSI,5,clicks out,18,mm,,
+191-200,108,PSI,4,clicks out,18,mm,,
+201-210,116,PSI,3,clicks out,18,mm,,
+211-220,125,PSI,3,clicks out,18,mm,,
+221-230,134,PSI,2,clicks out,18,mm,,
+231-240,143,PSI,2,clicks out,18,mm,,
+241-250,142,PSI,2,clicks out,18,mm,,
+,,,,,,,,
+Rear Suspension,RockShox SIDLuxe Ultimate,,,,,,,
+Pounds,Spring,Units,Rebound,Units,Shock Stroke,Units,Shock Sag,Units
+0-100,100,PSI,6,clicks out,45,mm,12,mm
+101-110,110,PSI,6,clicks out,45,mm,12,mm
+111-120,120,PSI,6,clicks out,45,mm,12,mm
+121-130,130,PSI,5,clicks out,45,mm,12,mm
+131-140,140,PSI,5,clicks out,45,mm,12,mm
+141-150,150,PSI,5,clicks out,45,mm,12,mm
+151-160,160,PSI,5,clicks out,45,mm,12,mm
+161-170,170,PSI,5,clicks out,45,mm,12,mm
+171-180,180,PSI,5,clicks out,45,mm,12,mm
+181-190,190,PSI,4,clicks out,45,mm,12,mm
+191-200,200,PSI,4,clicks out,45,mm,12,mm
+201-210,210,PSI,4,clicks out,45,mm,12,mm
+211-220,220,PSI,4,clicks out,45,mm,12,mm
+221-230,230,PSI,3,clicks out,45,mm,12,mm
+231-240,240,PSI,3,clicks out,45,mm,12,mm
+241-250,250,PSI,3,clicks out,45,mm,12,mm
+END BIKE MODEL,,,,,,,,
